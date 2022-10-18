@@ -21,18 +21,29 @@ img {
 
 /* レイアウト
 ---------------------------*/
-.l-innner {
+.l-inner {
     width: 88%;
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
 
+.l-bg-blue {
+    background-color: #123D88;
+}
+
 /* header */
-.l-header {}
+.l-header {
+    padding: 30px 0;
+}
 
 /* footer */
-.l-footer {}
+.l-footer {
+    padding: 30px 0;
+    text-align: right;
+    font-size: 15px;
+    color: #fff;
+}
 
 
 
