@@ -102,7 +102,9 @@ img {
     margin-right: auto;
 }
 
-
+.l-text-space {
+    padding-bottom: 40px;
+}
 
 /* header */
 .l-header {
@@ -163,6 +165,14 @@ img {
     margin-top: 40px;
 }
 
+.card-border {
+    border: 1px solid #6C6C6F;
+}
+
+.card-height {
+    height: 240px;
+}
+
 /* btn */
 .btn {
     display: block;
@@ -186,4 +196,9 @@ img {
 .btn-outline {
     border: 1px solid #fff;
     background-color: transparent;
+}
+
+.btn-orange {
+    background-color: #F87624;
+    color: #fff;
 }
